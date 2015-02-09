@@ -14,5 +14,13 @@
   "scripts": {
     "test": "null"
   },
-  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)"
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuren/catdown-scrollsync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zuren/catdown-scrollsync/issues"
+  },
+  "homepage": "https://github.com/zuren/catdown-scrollsync"
 }
