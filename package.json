@@ -1,0 +1,18 @@
+{
+  "name": "catdown-scrollsync",
+  "version": "1.0.0",
+  "description": "Catdown plugin. Synchronises preview scrolling to editor scrolling.",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "catdown",
+    "preview",
+    "scroll",
+    "sync"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "null"
+  },
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)"
+}
